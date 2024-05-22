@@ -2,8 +2,8 @@
 # Mostrar su valor en pantalla
 #Poner un comentario para poner el tipo de dato
 
-pais="Pais"
-continente='Contintente'
+pais="Pais" #Tipo string
+continente='Contintente' #tipo string
 
 print(pais)
 print(continente)

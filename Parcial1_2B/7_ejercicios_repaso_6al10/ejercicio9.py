@@ -6,4 +6,5 @@ while x != 111:
     x=float(input("coloca un numero"))
     print(x)
     if x == 111:
+        print("Lista terminada")
         break

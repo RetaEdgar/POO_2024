@@ -1,6 +1,5 @@
 #Hacer un programa que muestre todos los numeros impares entre 2 numeros que decida el usuario
 
-
 num1=int(input("Coloca el primer numero: "))
 num2=int(input("Coloca el segundo numero: "))
 
