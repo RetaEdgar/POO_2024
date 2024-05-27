@@ -10,3 +10,6 @@ print(continente)
 
 print(type(pais))
 print(type(continente))
+
+
+
