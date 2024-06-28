@@ -1,4 +1,4 @@
-from clases import * 
+from clases import *
 
 print("Figura 1")
 figura1=Figura(3, 6, True)
