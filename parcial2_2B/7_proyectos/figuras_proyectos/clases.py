@@ -1,7 +1,3 @@
-"""  
-"""
-
-
 
 class Figura:
     def init(self, x, y, visible):
