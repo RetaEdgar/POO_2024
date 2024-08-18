@@ -81,7 +81,7 @@ def menu_notas(usuario_id,nombre,apellidos):
         elif opcion == '2' or opcion=="MOSTRAR":
             borrarPantalla()
             #Agregar codigo  
-            registros=nota.Nota.mostrar(usuario_id)
+            registros=nota.Nota.mostrar()
             if len(registros)>0:
                 print(f"\n\t {nombre} {apellidos}, tus notas son: ")
                 num_notas=1
